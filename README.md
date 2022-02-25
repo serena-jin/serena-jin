@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### I am Miran, Bigdata Engineer from :kr: Seoul, Republic of Korea 
 
-<!--
-**serena-jin/serena-jin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### About ME
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Interest
+
+
+### Latest Project
+[Git_merge_practice](https://github.com/cuuuutecat/adoptcat)
+
+
+### Languages and Tools
+
+
+### Connect to me
