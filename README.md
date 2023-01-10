@@ -1,7 +1,5 @@
-## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> This is Serena.
-## I am a Machine Learning Engineer / Data Engineer / Cloud Engineer
+### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+### This is Serena. I am a Machine Learning Engineer / Data Engineer / Cloud Engineer
 
-### Interest
-#### Machine Learning CICD & Monitoring
-#### Observability
+##### #Machine Learning CICD & Monitoring #Observability
 
